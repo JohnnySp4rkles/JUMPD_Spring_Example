@@ -6,7 +6,8 @@
 	
 	<body>
 	<img src="resources/images/thumbnail_jumpd.jpg" height="200px" width="600px"/><br/>
-		<a href="hello.html">click</a>
-		<a href="loremIpsum.html">lorem ipsum</a>
+		<a href="hello.html">click</a><br/>
+		<a href="loremIpsum.html">lorem ipsum</a><br/>
+		<a href="#">Something</a>
 	</body>
 </html>
