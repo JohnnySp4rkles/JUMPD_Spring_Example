@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+a:link, a:visited{
+ text-decoration: none;
+ display: inline-block;
+ color: black;
+ background-color: white;
+}
+p{
+	color: olive;
+	text-decoration: none;
+}
